@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #3730a3;
+}
+h1{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+.header{
+    max-width: 75%;
+    margin: auto;
+    text-align: center;
+    padding: 1em;
+    background-color: #6d28d9;
+    margin-top: 1em;
+    border-radius: 2em;
+    box-shadow: .3em .3em .9em;
+}
